@@ -26,13 +26,13 @@ const slides: Slide[] = [
   },
   {
     key: '2',
-    image: require('@/assets/images/onboard-book.png'),
+    image: require('@/assets/images/onboard-book2.png'),
     title: 'Book in a few taps',
     subtitle: 'Pick your dates, review the price and deposit, then send a rental request instantly.',
   },
   {
     key: '3',
-    image: require('@/assets/images/onboarding-3.png'),
+    image: require('@/assets/images/onboard-list3.png'),
     title: 'List and earn',
     subtitle: 'Put your idle equipment to work and earn money by renting it to people near you.',
   },

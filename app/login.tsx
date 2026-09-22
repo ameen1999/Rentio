@@ -51,7 +51,7 @@ export default function Login() {
         keyboardShouldPersistTaps="handled"
       >
         <View style={styles.logoWrap}>
-          <Image source={require('@/assets/images/logo.png')} style={styles.logo} contentFit="contain" />
+          <Image source={require('@/assets/images/brand-logo.png')} style={styles.logo} contentFit="contain" />
         </View>
         <Text style={styles.brand}>Rentio</Text>
         <Text style={styles.subtitle}>

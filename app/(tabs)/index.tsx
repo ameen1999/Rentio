@@ -34,7 +34,7 @@ export default function Home() {
     <View style={styles.container}>
       <View style={[styles.topBar, { paddingTop: insets.top + 8 }]}>
         <View style={styles.brandRow}>
-          <Image source={require('@/assets/images/logo.png')} style={styles.logo} contentFit="contain" />
+          <Image source={require('@/assets/images/brand-logo.png')} style={styles.logo} contentFit="contain" />
           <View>
             <Text style={styles.greeting}>Hi, {user?.name ?? 'there'} 👋</Text>
             <Text style={styles.brandName}>Rentio</Text>

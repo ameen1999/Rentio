@@ -34,7 +34,7 @@ function SplashOverlay() {
   return (
     <View style={styles.splash}>
       <View style={styles.logoWrap}>
-        <Image source={require('@/assets/images/logo.png')} style={styles.logo} contentFit="contain" />
+        <Image source={require('@/assets/images/brand-logo.png')} style={styles.logo} contentFit="contain" />
       </View>
       <Text style={styles.brand}>Rentio</Text>
       <Text style={styles.tagline}>Rent anything, anytime</Text>
